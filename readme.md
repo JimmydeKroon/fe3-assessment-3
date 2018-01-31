@@ -216,6 +216,7 @@ This was a very tricky assignment for me since im not that naturally skilled wit
 * [Data](https://github.com/fivethirtyeight/data/tree/master/college-majors)
 * [Author](https://b.locks.org/mbostock)
 * [Original stacked barchart](https://bl.ocks.org/mbostock/3886208)
+* [Original scatterplot](https://bl.ocks.org/Jverma/076377dd0125b1a508621441752735fc)
 * [D3 scaleBand](https://github.com/d3/d3-scale/blob/master/README.md#scaleBand)
 * [D3 csv](https://github.com/d3/d3/wiki/CSV)
 * [D3 map](https://github.com/d3/d3-collection/blob/master/README.md#map)
