@@ -212,19 +212,19 @@ And that is how this visualisation enters, updates and exits!
 This was a very tricky assignment for me since im not that naturally skilled with javascript to begin with. Adding in D3 made things pretty difficult. Once the data was categorized and i was able to complete the stacked bar chart things started going a bit faster, i had a better view of the project and i could see what was needed to finish the visualisation. Major credit to some of the warriors on stackoverflow.com for providing me with loads of small solutions and ways to start solving problems.
 
 ## features
-[D3](https://d3js.org/)
-[Data](https://github.com/fivethirtyeight/data/tree/master/college-majors)
-[Author](https://b.locks.org/mbostock)
-[Original stacked barchart](https://bl.ocks.org/mbostock/3886208)
-[D3 scaleBand](https://github.com/d3/d3-scale/blob/master/README.md#scaleBand)
-[D3 csv](https://github.com/d3/d3/wiki/CSV)
-[D3 map](https://github.com/d3/d3-collection/blob/master/README.md#map)
-[D3 transition](https://github.com/d3/d3-transition/blob/master/README.md#transition)
-[D3 select](https://github.com/d3/d3-selection/blob/master/README.md#select)
-[D3 selectAll](https://github.com/d3/d3-selection/blob/master/README.md#selectAll)
-[Selection append](https://github.com/d3/d3-selection/blob/master/README.md#selection_append)
-[Selection attr](https://github.com/d3/d3-selection/blob/master/README.md#selection_attr)
-[Selection enter](https://github.com/d3/d3-selection/blob/master/README.md#selection_enter)
+* [D3](https://d3js.org/)
+* [Data](https://github.com/fivethirtyeight/data/tree/master/college-majors)
+* [Author](https://b.locks.org/mbostock)
+* [Original stacked barchart](https://bl.ocks.org/mbostock/3886208)
+* [D3 scaleBand](https://github.com/d3/d3-scale/blob/master/README.md#scaleBand)
+* [D3 csv](https://github.com/d3/d3/wiki/CSV)
+* [D3 map](https://github.com/d3/d3-collection/blob/master/README.md#map)
+* [D3 transition](https://github.com/d3/d3-transition/blob/master/README.md#transition)
+* [D3 select](https://github.com/d3/d3-selection/blob/master/README.md#select)
+* [D3 selectAll](https://github.com/d3/d3-selection/blob/master/README.md#selectAll)
+* [Selection append](https://github.com/d3/d3-selection/blob/master/README.md#selection_append)
+* [Selection attr](https://github.com/d3/d3-selection/blob/master/README.md#selection_attr)
+* [Selection enter](https://github.com/d3/d3-selection/blob/master/README.md#selection_enter)
 
 ##License
 GPL 3.0 © 2017 Jimmy de Kroon
